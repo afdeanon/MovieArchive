@@ -6,6 +6,9 @@
 
 This project implements a complete movie archive system showcasing core software engineering principles including interface design, inheritance hierarchies, and algorithm optimization across different data structures.
 
+## Project Timeline
+October 2021 - September 2021
+
 ## 🛠️ Technical Implementation
 
 ### Core Architecture
