@@ -2,14 +2,14 @@
 
 **A Java application demonstrating advanced object-oriented design patterns through a movie database with multiple data structure implementations and comprehensive sorting capabilities.**
 
-## 🎯 Project Overview
+## Project Overview
 
 This project implements a complete movie archive system showcasing core software engineering principles including interface design, inheritance hierarchies, and algorithm optimization across different data structures.
 
 ## Project Timeline
 October 2021 - September 2021
 
-## 🛠️ Technical Implementation
+## 🛠Technical Implementation
 
 ### Core Architecture
 - **Interface-Based Design**: `FilmArchive` interface ensures consistent behavior across implementations
@@ -30,7 +30,7 @@ October 2021 - September 2021
    - O(log n) operations
    - Maintains natural ordering automatically
 
-## 🚀 Key Features
+## Key Features
 
 - **Duplicate Prevention**: Robust duplicate detection across all implementations
 - **Consistent Sorting**: Alphabetical by title, chronological by year as tiebreaker
@@ -38,7 +38,7 @@ October 2021 - September 2021
 - **Extensible Design**: Easy to add new archive types through interface implementation
 
 
-## 🧪 Testing & Validation
+## Testing & Validation
 
 Comprehensive test suite validates:
 - Duplicate movie rejection (same title + year)
@@ -46,9 +46,9 @@ Comprehensive test suite validates:
 - Interface compliance across all implementations
 - Memory efficiency and performance benchmarks
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
-This project demonstrates mastery of:
+This project demonstrates:
 - Object-oriented design and inheritance
 - Java Collections Framework optimization
 - Interface-driven development
