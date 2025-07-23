@@ -43,28 +43,6 @@ Comprehensive test suite validates:
 - Interface compliance across all implementations
 - Memory efficiency and performance benchmarks
 
-## 📁 Project Structure
-
-```
-src/
-├── Movie.java              # Core movie class with Comparable implementation
-├── FilmArchive.java        # Interface defining archive contract
-├── ListFilmArchive.java    # ArrayList-based implementation
-├── HashFilmArchive.java    # HashSet-based implementation  
-├── TreeFilmArchive.java    # TreeSet-based implementation
-└── TestDriver.java         # Comprehensive testing suite
-```
-
-## 🔧 How to Run
-
-```bash
-# Compile all Java files
-javac *.java
-
-# Run the test suite
-java TestDriver
-```
-
 ## 🎓 Learning Outcomes
 
 This project demonstrates mastery of:
